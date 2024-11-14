@@ -14,7 +14,7 @@
   
       "Learning" : "C#", # this is for Terraria Mods hehe
   
-      "Current Projects" : ("Python VM","Summoner Awakening") # Summoner Awakening is my Terraria Mod
+      "Current Projects" : ("Python VM","Summoner Awakening") # Summoner Awakening is my Terraria Mod [NOT ON GITHUB!]
   
   
     }
