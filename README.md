@@ -3,7 +3,9 @@
     MyName = "Aki"
 
     AboutMe = {
-
+    
+      "Pronouns" : ["she","her"],
+      
       "Gender" : "Female", # goes with the LGBTQ+
   
       "LGBTQ+" : ("Bi","Trans"),
@@ -19,6 +21,6 @@
   
     }
 
-    print(f"{MyName} is a {AboutMe["LGBTQ+"][1]}-{AboutMe["Gender"]} who loves to code in {AboutMe["Fav Programming Language"]}, she is currently learning {AboutMe["Learning"]}")
+    print(f"{MyName} is a {AboutMe['LGBTQ+'][1]}-{AboutMe['Gender']} who loves to code in {AboutMe['Fav Programming Language']}, {AboutMe['Pronouns'][0]} is currently learning {AboutMe['Learning']}")
 
 
