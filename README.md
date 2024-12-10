@@ -20,7 +20,9 @@
   
   
     }
-
+    
+    print()
     print(f"{MyName} is a {AboutMe['LGBTQ+'][1]}-{AboutMe['Gender']} who loves to code in {AboutMe['Fav Programming Language']}, {AboutMe['Pronouns'][0]} is currently learning {AboutMe['Learning']}")
+    print()
 
-
+    # this does work i have tried
