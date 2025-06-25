@@ -8,15 +8,15 @@
       
       "Gender" : "Female", # goes with the LGBTQ+
   
-      "LGBTQ+" : ("Bi","Trans"),
+      "LGBTQ+" : ("Bisexual","Trans"),
   
       "Fav Colour" : ("Pink", "Green"),
   
       "Fav Programming Language" : "Lua", # and i keep using lua when im trying to code in python
   
-      "Learning" : "C#", # this is for Terraria Mods hehe
+      "Learning" : "C# / C++ / C", # For 3D Game Engines
   
-      "Current Projects" : ("PAIDE SDK") # Summoner Awakening is my Terraria Mod [NOT ON GITHUB!]
+      "Current Projects" : ("PAIDE SDK", "Summer Project Song") # Read more in it's repository [if avaliable]
   
   
     }
